@@ -1,0 +1,33 @@
+.VideoRow {
+    margin-top: 30px;
+    margin-left: 30px;
+    display: flex;
+}
+
+.VideoRow__image {
+    width: 300px;
+    height: 200px;
+}
+
+.VideoRow__whole {
+    padding-left: 20px;
+}
+
+.VideoRow__text {
+    display: flex;
+    align-items: center;
+}
+
+.VideoRow__whole > p {
+    font-size: 14px;
+}
+
+.VideoRow__text > p {
+    font-size: 12px;
+}
+
+.VideoRow__text > p {
+    padding-left: 8px;
+}
+
+
